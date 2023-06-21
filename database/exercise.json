@@ -1,0 +1,116 @@
+{
+    "Exercises": {
+      "Deadlift": {
+        "Deadlifts": {
+          "description": "Stand with your feet shoulder-width apart, toes pointed slightly outward, and the barbell placed in front of you. Bend down and grip the barbell just outside your legs with an overhand grip or a mixed grip (one hand overhand, one hand underhand). Keep your back straight, chest up, and engage your core. With your legs and hips driving the movement, stand up, lifting the barbell off the ground until you're standing upright. Reverse the movement by hinging at the hips and bending your knees, lowering the barbell back down to the starting position. Maintain proper form throughout the exercise, avoiding rounding or excessive arching of the back.",
+          "image_location": "barbell-deadlift-movement.gif"
+        },
+        "RomanianDeadlifts": {
+          "description": "This variation focuses on the hamstrings and glutes. Hold a barbell or dumbbells with an overhand grip, feet hip-width apart. Hinge at the hips while maintaining a slight bend in the knees, lowering the weight towards the floor. Keep your back straight and return to the starting position by squeezing your glutes and extending your hips.",
+          "image_location": "Barbell-Romanian-Deadlift.gif"
+        },
+        "KettlebellSwings": {
+          "description": "This exercise targets the posterior chain, including the glutes and hamstrings. Hold a kettlebell with both hands between your legs. Bend at the hips, swing the kettlebell backward between your legs, and then explosively extend your hips to swing the kettlebell up to shoulder height.",
+          "image_location": "russian-kettlebell-swing.gif"
+        },
+        "GluteBridges": {
+          "description": "Lie on your back with knees bent and feet flat on the floor. Press through your heels and lift your hips off the ground, squeezing your glutes at the top. Lower back down and repeat.",
+          "image_location": "Glute-Bridge-.gif"
+        }
+      },
+      "BenchPress": {
+        "BenchPresses": {
+          "description": "The bench press is a compound exercise that primarily targets the muscles in your chest, shoulders, and triceps. Here's how to perform the bench press: Lie on a flat bench with your feet firmly planted on the floor. Position yourself so that your eyes are directly under the barbell on the rack. Grip the barbell slightly wider than shoulder-width apart, with an overhand grip or a mixed grip. Lift the barbell off the rack and hold it directly above your chest with your arms fully extended. Lower the barbell to your chest, keeping your elbows at around a 45-degree angle to your body. Pause briefly when the barbell touches your chest, then push it back up to the starting position, fully extending your arms. Maintain a stable and controlled movement throughout, avoiding excessive arching of the back or bouncing the bar off your chest.",
+          "image_location": "Barbell-Bench-Press.gif"
+        },
+        "DumbellChestPresses": {
+          "description": "Lie on a bench or the floor, holding a dumbbell in each hand at chest level. Press the dumbbells straight up until your arms are fully extended, then lower them back down.",
+          "image_location": "Dumbbell-Press.gif"
+        },
+        "PushUps": {
+          "description": "Assume a plank position with hands slightly wider than shoulder-width apart. Lower your body until your chest nearly touches the ground, then push back up to the starting position.",
+          "image_location": "push-up.gif"
+        }
+      },
+      "Squat": {
+        "Squats": {
+          "description": "Squats are a compound exercise that targets the muscles in your lower body, including the quadriceps, hamstrings, glutes, and core. Here's how to perform squats: Stand with your feet shoulder-width apart or slightly wider, toes pointed slightly outward. Engage your core, keep your chest up, and maintain a neutral spine. Lower your body by bending at the hips and knees, as if you're sitting back into a chair. Aim to bring your thighs parallel to the ground or lower, while keeping your knees in line with your toes and heels firmly on the ground. Push through your heels and extend your hips and knees to return to the starting position. Keep your weight balanced throughout the movement, and avoid allowing your knees to cave inward.",
+          "image_location": "barbell-full-squat.gif"
+        },
+        "GobletSquats": {
+            "description": "Hold a dumbbell or kettlebell at your chest with both hands. Squat down by pushing your hips back and bending your knees, maintaining an upright posture. Return to the starting position by driving through your heels.",
+            "image_location": "goblet-squats.gif"
+        },
+        "BulgarianSplitSquats": {
+          "description": "Stand with one foot positioned backward on an elevated surface like a bench or step. Lower your body into a lunge position until your rear knee is just above the floor. Push through your front foot to return to the starting position. Switch legs and repeat.",
+          "image_location": "Bulgarian-Split-Squat.gif"
+        },
+        "LegPresses": {
+          "description": "Using a leg press machine, position your feet on the platform shoulder-width apart. Lower the platform until your knees are bent at a 90-degree angle, then push the platform back up to the starting position.",
+          "image_location": "leg-press.gif"
+        }
+      }
+    },
+    "Stretches":{
+        "GeneralStretches": {
+          "StandingForwardFold": {
+            "description": "Stand with feet hip-width apart, bend forward at the hips, and reach towards your toes. Keep your knees slightly bent.",
+            "image_location": ""
+          },
+          "StandingQuadStretch": {
+            "description": "Stand upright, grab your right foot with your right hand, and pull it towards your glutes. Keep your knees close together.",
+            "image_location": ""
+          },
+          "SeatedButterflyStretch": {
+            "description": "Sit on the floor, bring the soles of your feet together, and gently press your knees towards the floor.",
+            "image_location": ""
+          },
+          "ChestStretch": {
+            "description": "Stand in a doorway, place your forearm on the doorframe, and gently lean forward to stretch your chest.",
+            "image_location": ""
+          }
+        },
+        "DeadliftStretches": {
+          "StandingHamstringStretch": {
+            "description": "Stand with feet shoulder-width apart, hinge at the hips, and reach towards your toes. Keep your legs straight.",
+            "image_location": ""
+          },
+          "SeatedGluteStretch": {
+            "description": "Sit on the floor with your right ankle on your left knee. Lean forward and gently press your right knee towards the floor.",
+            "image_location": ""
+          },
+          "ChildsPose": {
+            "description": "Kneel on the floor, sit back on your heels, and reach your arms forward while lowering your chest towards the ground.",
+            "image_location": ""
+          }
+        },
+        "BenchPressStretches": {
+          "DoorwayChestStretch": {
+            "description": "Stand in a doorway, place your forearms on the doorframe, and gently step forward until you feel a stretch in your chest.",
+            "image_location": ""
+          },
+          "ShoulderCrossBodyStretch": {
+            "description": "Stand tall, extend your right arm across your chest, and use your left arm to gently pull it closer to your body.",
+            "image_location": ""
+          },
+          "TricepsStretch": {
+            "description": "Extend your right arm overhead, bend it at the elbow, and reach your left hand towards your right shoulder blade.",
+            "image_location": ""
+          }
+        },
+        "SquatStretches": {
+          "KneelingHipFlexorStretch": {
+            "description": "Kneel on your right knee, lunge forward with your left foot, and squeeze your glutes while maintaining an upright posture.",
+            "image_location": ""
+          },
+          "StandingQuadStretch": {
+            "description": "Stand upright, grab your right foot with your right hand, and pull it towards your glutes. Keep your knees close together.",
+            "image_location": ""
+          },
+          "StandingCalfStretch": {
+            "description": "Place your hands on a wall, extend one leg back, and press the heel of your back foot towards the ground.",
+            "image_location": ""
+        }
+      }     
+    }
+  }
